@@ -4,9 +4,7 @@
 A Wireless PlayStation Controller design using HTML and CSS.
 
 
-## Screenshots
-
-
+## Screenshot![Design2](https://user-images.githubusercontent.com/97656404/197941446-ebd95fd0-e8ea-47e0-86b0-718889533140.png)
 
 ## Fonts
 
